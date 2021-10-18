@@ -9,6 +9,7 @@ Verifique se sua máquina possui o instalador de pacotes [pip](https://pypi.org/
 Eu fiz o deploy dessa api no [Heroku](https://heroku.com/) no endereço [https://pokedexwhatsapp.herokuapp.com/](https://pokedexwhatsapp.herokuapp.com/) e [https://pokedexwhatsapp.herokuapp.com/docs](https://pokedexwhatsapp.herokuapp.com/docs) para que fique sempre online e funcionando. Mas como a minha conta do Twilio é gratuita, somente os números de telefone que cadastrei na sandbox vão funcionar para testes. Caso queira que eu cadastre o seu número para teste mande uma mensagem pedindo para 21 98442-5722.
 
 ## Instalação
+Não esqueça de iniciar o seu venv (virtual environment) antes.
 ```bash
 # Instalando todos os requirementos:
 pip install -r requeriments.txt
